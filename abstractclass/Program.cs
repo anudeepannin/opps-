@@ -8,9 +8,9 @@ public abstract class Shape
     public abstract int Area();
 }
 
-public class Rectangle : Shape
+public class rectangle : Shape
 {    
-    public Rectangle(int x, int y)
+    public rectangle(int x, int y)
     {
         this.x = x;
         this.y = y;
@@ -40,7 +40,7 @@ public class Polymorphism
     static void Main()
     {
         Shape[] shapes = { new Square(5), 
-            new Rectangle(9, 4), new Square(12) }; 
+            new rectangle(9, 4), new Square(12) }; 
 
         foreach (Shape shape in shapes)
         {
