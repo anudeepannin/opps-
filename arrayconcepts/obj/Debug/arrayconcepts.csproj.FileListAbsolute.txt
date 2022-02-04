@@ -1,0 +1,7 @@
+D:\Dotnet\oops\arrayconcepts\bin\Debug\arrayconcepts.exe.config
+D:\Dotnet\oops\arrayconcepts\bin\Debug\arrayconcepts.exe
+D:\Dotnet\oops\arrayconcepts\bin\Debug\arrayconcepts.pdb
+D:\Dotnet\oops\arrayconcepts\obj\Debug\arrayconcepts.csproj.AssemblyReference.cache
+D:\Dotnet\oops\arrayconcepts\obj\Debug\arrayconcepts.csproj.CoreCompileInputs.cache
+D:\Dotnet\oops\arrayconcepts\obj\Debug\arrayconcepts.exe
+D:\Dotnet\oops\arrayconcepts\obj\Debug\arrayconcepts.pdb

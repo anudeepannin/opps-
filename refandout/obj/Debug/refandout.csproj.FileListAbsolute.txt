@@ -1,0 +1,7 @@
+D:\Dotnet\oops\refandout\bin\Debug\refandout.exe.config
+D:\Dotnet\oops\refandout\bin\Debug\refandout.exe
+D:\Dotnet\oops\refandout\bin\Debug\refandout.pdb
+D:\Dotnet\oops\refandout\obj\Debug\refandout.csproj.AssemblyReference.cache
+D:\Dotnet\oops\refandout\obj\Debug\refandout.csproj.CoreCompileInputs.cache
+D:\Dotnet\oops\refandout\obj\Debug\refandout.exe
+D:\Dotnet\oops\refandout\obj\Debug\refandout.pdb
