@@ -1,0 +1,7 @@
+D:\Dotnet\oops\AsyncandAwait\bin\Debug\AsyncandAwait.exe.config
+D:\Dotnet\oops\AsyncandAwait\bin\Debug\AsyncandAwait.exe
+D:\Dotnet\oops\AsyncandAwait\bin\Debug\AsyncandAwait.pdb
+D:\Dotnet\oops\AsyncandAwait\obj\Debug\AsyncandAwait.csproj.AssemblyReference.cache
+D:\Dotnet\oops\AsyncandAwait\obj\Debug\AsyncandAwait.csproj.CoreCompileInputs.cache
+D:\Dotnet\oops\AsyncandAwait\obj\Debug\AsyncandAwait.exe
+D:\Dotnet\oops\AsyncandAwait\obj\Debug\AsyncandAwait.pdb
