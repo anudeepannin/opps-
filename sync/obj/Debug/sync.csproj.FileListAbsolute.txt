@@ -1,0 +1,7 @@
+D:\Dotnet\oops\sync\bin\Debug\sync.exe.config
+D:\Dotnet\oops\sync\bin\Debug\sync.exe
+D:\Dotnet\oops\sync\bin\Debug\sync.pdb
+D:\Dotnet\oops\sync\obj\Debug\sync.csproj.AssemblyReference.cache
+D:\Dotnet\oops\sync\obj\Debug\sync.csproj.CoreCompileInputs.cache
+D:\Dotnet\oops\sync\obj\Debug\sync.exe
+D:\Dotnet\oops\sync\obj\Debug\sync.pdb

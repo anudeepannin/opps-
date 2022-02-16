@@ -1,0 +1,6 @@
+D:\Dotnet\oops\exceptionalhandling\bin\Debug\exceptionalhandling.exe.config
+D:\Dotnet\oops\exceptionalhandling\bin\Debug\exceptionalhandling.exe
+D:\Dotnet\oops\exceptionalhandling\bin\Debug\exceptionalhandling.pdb
+D:\Dotnet\oops\exceptionalhandling\obj\Debug\exceptionalhandling.csproj.CoreCompileInputs.cache
+D:\Dotnet\oops\exceptionalhandling\obj\Debug\exceptionalhandling.exe
+D:\Dotnet\oops\exceptionalhandling\obj\Debug\exceptionalhandling.pdb
